@@ -7,7 +7,7 @@ from dialogo import Dialogo
 import os
 import uvicorn
 
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = 'aaaaaaaaaaaaaaaaaaaa'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = 'adicione_seu_token_aqui'
 
 app = FastAPI()
 
