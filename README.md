@@ -1,16 +1,15 @@
-## Cria chat com Python + LLama-3 + HuggingFace
-# 
+# Cria chat com Python + LLama-3 + HuggingFace
 
 ## Descrição
-A ideia deste código foi criar um chat utilizando Python, HuggingFace e o LLama-3 da Meta e expor em uma API
+A ideia deste código foi criar um chat utilizando Python, HuggingFace e o LLama-3 da Meta e expor o diálogo através de uma API
 
 ## Bibliotecas utilizadas
 * langchain
 * uvicorn
 * fastapi
+* pydantic
 
 ## Código
-
 
 #### chat.py
 ```  
