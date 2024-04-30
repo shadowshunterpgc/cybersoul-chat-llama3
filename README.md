@@ -76,3 +76,6 @@ class Dialogo(BaseModel):
 
 ## Acessando API
 ![img.png](img.png)
+
+## Youtube
+[![Watch the video](https://img.youtube.com/vi/P_aaPqQTTOA/maxresdefault.jpg)](https://youtu.be/P_aaPqQTTOA)
